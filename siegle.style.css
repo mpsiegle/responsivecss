@@ -326,7 +326,7 @@ img{
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
     img{
-        width: 300px;
+        width: auto;
         max-width: 300px;
     }
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
